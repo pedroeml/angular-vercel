@@ -2,7 +2,7 @@
 
 # Angular Example
 
-This directory is a brief example of an [Angular](https://angular.io/) app that can be deployed with Vercel and zero configuration.
+This directory is a brief example of an [Angular](https://angular.io/) app later upgraded to version 9.1.7 that can be deployed with Vercel and zero configuration.
 
 ## Deploy Your Own
 
